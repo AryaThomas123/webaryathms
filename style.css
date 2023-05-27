@@ -81,7 +81,7 @@ h4 {
 
 .home .content1 h2 {
   color: #4e9eff;;
-  font-size: 4em;
+  font-size: 3em;
   font-weight: 500;
 }
 
@@ -98,7 +98,7 @@ h4 {
 
 .animasi-text h3 {
   color: gold;
-  font-size: 2em;
+  font-size: 1em;
   font-weight: 500;
   line-height: 30px;
   letter-spacing: 1px;
@@ -175,7 +175,6 @@ h4 {
   color: goldenrod;
   font-size: 2em;
   font-weight: 700;
-  margin-left: 78px;
   text-transform: uppercase;
   text-decoration: none;
 }
